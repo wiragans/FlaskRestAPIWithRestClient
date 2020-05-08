@@ -19,4 +19,4 @@ Authorization: Basic dXNlcnRlc3RhcGlmbGFzazpwYXNzdGVzdGFwaWZsYXNr
 clientId: b09218e436dd137d454d3d54488108e1
 hash: sha256("namausernamepassword/wiradwisoke/Ku1zKM3PvYAIAAABmeyJvcmlnaW4iOiJ")
 
-nama=xxxxxx&username=xxxxxx&password=xxxxxx
+nama=xxxxxx&username=xxxxxx&password=xxxxxxx
